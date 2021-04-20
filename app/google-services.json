@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067955202870",
+    "firebase_url": "https://iicfirebaseproject.firebaseio.com",
+    "project_id": "iicfirebaseproject",
+    "storage_bucket": "iicfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067955202870:android:957fe1b235105ca7ad2197",
+        "android_client_info": {
+          "package_name": "com.example.iic_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067955202870-4ib9kiijcjkloh73qfot5d8s1fl1fa7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbWIGpHBoMOaees7rVbNLpZfIwwXAUfsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067955202870-4ib9kiijcjkloh73qfot5d8s1fl1fa7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
